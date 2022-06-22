@@ -1,0 +1,16 @@
+@import url(./secciones/-quienes-somos.scss);
+@import url(./secciones/_contacto.scss);
+@import url(./secciones/_header.scss);
+@import url(./secciones/_index.scss);
+* {
+  margin: 0%;
+  padding: 0%; }
+
+main h1 {
+  color: pink;
+  background-color: gray; }
+
+.primeraseccion {
+  padding: 1rem; }
+  .primeraseccion p {
+    text-align: center; }

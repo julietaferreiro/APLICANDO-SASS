@@ -1,0 +1,23 @@
+.index{
+    main{
+        h1{
+            font-family: $tipografiaTitulos;
+           color: white;
+           background-color: black;
+        }
+        .primeraSeccion{
+            padding: 1rem;
+            background-color: grey;
+            p{
+                text-align: center;
+                color: yellow;
+            }
+        }
+    }
+}
+
+.segundaSeccion{
+    font-family: sans-serif;
+    color: $textoPrincipal;
+    background-color: $fondoSecundario;
+}
